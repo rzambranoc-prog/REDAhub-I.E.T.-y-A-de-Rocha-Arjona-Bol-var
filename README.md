@@ -49,7 +49,7 @@ A continuación, se describen los recursos educativos digitales contenidos en es
 
 | Archivo | Título del Recurso | Descripción Pedagógica | Formato | Estándar |
 | :--- | :--- | :--- | :--- | :--- |
-| `Cuadernillo: fracciones 5° y 6°` | Ejercicios | guía didáctica y práctica diseñada para que los estudiantes de primaria comprendan y dominen el tema de las fracciones de manera sencilla.. | PDF | LOM |
+| `Cuadernillo: fracciones 5° y 6°` | Ejercicios | guía  diseñada para que los estudiantes de primaria comprendan y dominen el tema de las fracciones de manera sencilla. | PDF | LOM |
 | `Fichero 3° ¿Qué es una fracción?` | Diseño y Estructura | Metodologías para el diseño instruccional y arquitectura de contenidos. | PDF | LOM |
 | `Fracciones` | Evaluación de Calidad | Criterios y modelos para evaluar la efectividad pedagógica de un RED. | PDF | LOM |
 | `Recursos digitales para el aprendizaje de las fracciones` | Gestión y Publicación | Guía para la implementación, roles y flujos de trabajo en repositorios. | PDF | LOM |
