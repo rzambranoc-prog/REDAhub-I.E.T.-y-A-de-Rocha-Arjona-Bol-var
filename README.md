@@ -41,7 +41,9 @@ El sistema está diseñado bajo una arquitectura de flujos de trabajo que distin
 ### 🌐 Material de Consulta y Sitios Web
 | Recurso | Descripción | Objetivo de Aprendizaje |
 | :--- | :--- | :--- |
-| [EduFichas] (https://www.edufichas.com/matematicas/fracciones/) | Portal educativo nacional | Explorar contenidos curriculares oficiales. |
+| [EduFichas] (https://www.edufichas.com/matematicas/fracciones/) | Portal educativo | Explorar contenidos curriculares sobre fraccionarios. |
+| [3 primaria - Matemática - Tipo de fracciones] (https://www.youtube.com/watch?v=_lEyCOJKCwo/) | Video educativo |Video explicativo sobre fracciones. |
+
 
 
 
