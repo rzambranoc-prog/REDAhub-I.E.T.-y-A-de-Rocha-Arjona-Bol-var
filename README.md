@@ -52,6 +52,6 @@ A continuación, se describen los recursos educativos digitales contenidos en es
 | `Cuadernillo: fracciones 5° y 6°` | Ejercicios | Guía  diseñada para que los estudiantes de primaria comprendan y dominen el tema de las fracciones de manera sencilla. | PDF | LOM |
 | `Fichero 3° ¿Qué es una fracción?` | Teoría sobre fracciones | Guía oficial de la SEP para docentes de 3° de primaria.. | PDF | LOM |
 | `Fracciones` | Recurso digital interactivo | Recurso digital integral de la Red Descartes (España). | PDF | LOM |
-| `Recursos digitales para el aprendizaje de las fracciones` | Artículo científico| Guía para la implementación, roles y flujos de trabajo en repositorios. | PDF | LOM |
+| `Recursos digitales para el aprendizaje de las fracciones` | Artículo científico| . | PDF | LOM |
 
 > **Nota:** Cada recurso ha sido catalogado para facilitar su búsqueda, recuperación y reutilización en contextos académicos
