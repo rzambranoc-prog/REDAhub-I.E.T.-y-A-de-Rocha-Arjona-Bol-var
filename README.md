@@ -37,6 +37,27 @@ El sistema está diseñado bajo una arquitectura de flujos de trabajo que distin
 3. **Evaluador:** Revisión de calidad bajo criterios pedagógicos.
 4. **Estudiante:** Consulta, descarga e interacción con los recursos.
 
+
+### 🌐 Material de Consulta y Sitios Web
+| Recurso | Descripción | Objetivo de Aprendizaje |
+| :--- | :--- | :--- |
+| [EduFichas] (https://www.edufichas.com/matematicas/fracciones/) | Portal educativo nacional | Explorar contenidos curriculares oficiales. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ### 📊 Inventario de Recursos (Metadatos LOM/Dublin Core)
