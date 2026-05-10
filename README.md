@@ -21,13 +21,12 @@ Liliana Ramírez Ospina
 ### 📝 Descripción del Proyecto
 Este repositorio digital contiene archivos y recursos digitales construidos con la finalidad de apoyar el aprendizaje en la Maestría de Recursos Digitales Aplicados a la Educación.
 ### 🎯 Objetivo General
-Diseñar e implementar un repositorio digital educativo innovador y de alta funcionalidad, fundamentado en estándares internacionales de metadatos (LOM/Dublin Core), que responda con precisión a las necesidades de un contexto educativo específico mediante una arquitectura técnica sólida, roles de usuario definidos y flujos de trabajo optimizados para la gestión de recursos de aprendizaje.
+Diseñar e implementar un Repositorio de Recursos Educativos Digitales Abiertos (REDA) que funcione como ecosistema pedagógico integral para la enseñanza y el aprendizaje de los números fraccionarios en los grados 3°, 4° y 5° de básica primaria de la I.E.T. y A del corregimiento de Rocha, municipio de Arjona, departamento de Bolívar, mediante la curaduría, contextualización y gestión sostenible de recursos digitales adaptados al entorno rural, con enfoque constructivista y conectivista, y con capacidad de funcionamiento offline para superar las barreras de conectividad propias del contexto institucional.
 
 ### 🚀 Objetivos Específicos
-* **Contextualización y Diseño:** Desarrollar un prototipo funcional y estéticamente profesional que articule las necesidades diagnósticas del entorno educativo con una interfaz intuitiva y creativa.
-* **Arquitectura y Funcionalidad:** Establecer una estructura coherente que integre procesos completos de carga, descarga y evaluación de recursos, garantizando la operatividad técnica del sistema.
-* **Estandarización de Datos:** Seleccionar y aplicar esquemas de metadatos (**LOM / Dublin Core**) alineados con los recursos educativos para asegurar la correcta organización, búsqueda y recuperación de la información.
-* **Gestión de Roles y Flujos:** Definir y sistematizar los perfiles de usuario (administrador, docente, estudiante y evaluador) mediante flujos de trabajo realistas que permitan una administración eficiente y trazable del contenido.
+1.	Diseñar secuencias didácticas articuladas al repositorio que promuevan la construcción progresiva del concepto de fracción, desde las fracciones propias hasta los números mixtos, con base en los principios del constructivismo.
+2.        Contextualizar recursos educativos digitales abiertos que vinculen el concepto de fracción con situaciones reales del entorno agrícola y pesquero de Rocha —reparto de cosechas, cálculo de porciones de pesca y división de terrenos—, siguiendo el enfoque de Aprendizaje Basado en Problemas (ABP). 
+
 
 
 ### 🛠️ Estructura y Roles
