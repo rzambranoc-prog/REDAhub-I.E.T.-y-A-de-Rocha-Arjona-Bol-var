@@ -55,24 +55,4 @@ A continuación, se describen los recursos educativos digitales contenidos en es
 | `UNIDAD 3.pdf` | Evaluación de Calidad | Criterios y modelos para evaluar la efectividad pedagógica de un RED. | PDF | LOM |
 | `UNIDAD 4_.pdf` | Gestión y Publicación | Guía para la implementación, roles y flujos de trabajo en repositorios. | PDF | LOM |
 
-> **Nota:** Cada recurso ha sido catalogado para facilitar su búsqueda, recuperación y reutilización en contextos académicos.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-### 📊 Inventario de Recursos (Metadatos LOM/Dublin Core)
-
-A continuación, se describen los recursos educativos digitales contenidos en este repositorio, siguiendo estándares internacionales de catalogación:
+> **Nota:** Cada recurso ha sido catalogado para facilitar su búsqueda, recuperación y reutilización en contextos académicos
