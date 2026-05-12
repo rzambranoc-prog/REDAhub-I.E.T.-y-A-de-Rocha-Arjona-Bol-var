@@ -42,7 +42,7 @@ El sistema está diseñado bajo una arquitectura de flujos de trabajo que distin
 | :--- | :--- | :--- |
 | [Khan Academy] (https://es.khanacademy.org/math/cc-third-grade-math/imp-fractions) | Portal educativo | Explorar contenidos curriculares sobre fraccionarios. |
 | [3 primaria - Matemática - Tipo de fracciones] (https://www.youtube.com/watch?v=_lEyCOJKCwo/) | Video educativo |Video explicativo sobre fracciones. |
-| [Colombia Aprende] (https://www.colombiaaprende.edu.co/sites/default/files/files_public/contenidosaprender/G_5/M/menu_M_G05_U01_L05/index.html/) | Ecosistema digital educativo oficial de Colombia. |Explorar contenidos curriculares matemáticos. |
+| [Colombia Aprende] (https://colombiaaprende.edu.co/contenidos-para-aprender/interpretacion-de-las-fracciones) | Ecosistema digital educativo oficial de Colombia. |Explorar contenidos curriculares matemáticos. |
 | [EduFichas] (https://www.edufichas.com/matematicas/fracciones/) | Portal educativo | Explorar contenidos curriculares sobre fraccionarios. |
 
 
